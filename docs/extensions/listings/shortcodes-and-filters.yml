@@ -245,6 +245,12 @@
     Output nicely formatted versions of fancy strings such as LaTeX and BibTeX
     in multiple formats.
 
+- name: flourish
+  path: https://github.com/kbodwin/flourish
+  author: '[Kelly Bodwin](https://github.com/kbodwin)'
+  description: >
+    Style code in rendered chunks.
+
 - name: figure-table-formatter
   path: https://github.com/iagopinal/figure-table-formatter
   author: '[Iago Pinal-Fernandez](https://github.com/iagopinal)'
